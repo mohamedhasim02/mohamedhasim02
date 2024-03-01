@@ -23,7 +23,7 @@ In the Front End Development Libraries Certification, you'll learn how to style 
 
 Technologies Used: HTML, CSS, JavaScript, Bootstrap, React, Redux.
 
-Link: https://codepen.io/collection/vBPGNv
+Link: https: https://codepen.io/collection/vBPGEb
 
 
 * FreeCodeCamp's Responsive Web Design
@@ -32,7 +32,7 @@ Description: These projects are made for the freeCodeCamp Responsive Web Design 
 
 Technologies Used: HTML, CSS, JavaScript.
 
-Link: https://codepen.io/collection/gYZzOJ
+Link: https://codepen.io/collection/YygqGd
 
 
 Skills
