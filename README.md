@@ -50,7 +50,9 @@ Skills
 How to Reach Me
 
 📧 Email: mohamedhasim2002@gmail.com 
+
 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-hasim-n-a6ab8024b 
+
 🌐 Portfolio: 
 
 
