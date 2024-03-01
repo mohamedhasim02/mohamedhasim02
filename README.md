@@ -1,10 +1,10 @@
-Hello, I'm MOHAMED HASIM 👋
+##### Hello, I'm MOHAMED HASIM 👋
 
 
 Welcome to my GitHub profile! I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.
 
 
-About Me
+##### About Me
 
 💻 I'm currently honing my skills in HTML, CSS, JavaScript, and various web development frameworks.
 📚 Learning is my constant companion; I'm always exploring new technologies and methodologies to improve my craft.
@@ -12,7 +12,7 @@ About Me
 🎨 I have a keen eye for design and enjoy crafting visually appealing interfaces.
 
 
-Projects
+##### Projects
 
 Here are some projects I've been working on:
 
@@ -35,7 +35,7 @@ Technologies Used: HTML, CSS, JavaScript.
 Link: https://codepen.io/collection/YygqGd
 
 
-Skills
+##### Skills
 
 * HTML
 * CSS/Sass
@@ -47,7 +47,7 @@ Skills
 * Dtabases (e.g., MySql, MongoDB)
 
 
-How to Reach Me
+##### How to Reach Me
 
 📧 Email: mohamedhasim2002@gmail.com 
 
@@ -56,7 +56,7 @@ How to Reach Me
 🌐 Portfolio: 
 
 
-Collaboration
+##### Collaboration
 
 I'm always open to collaboration and eager to work on exciting projects. If you're interested in collaborating or have any questions, feel free to reach out to me via email or LinkedIn.
 
