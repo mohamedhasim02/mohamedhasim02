@@ -44,7 +44,7 @@ Skills
 * Git/GitHub
 * Frontend Frameworks (e.g., React)
 * Backend Basics (e.g., Node.js, Express.js)
-* Dtabases (e.g., MySql,MongoDB)
+* Dtabases (e.g., MySql, MongoDB)
 
 
 How to Reach Me
