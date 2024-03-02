@@ -40,8 +40,9 @@ Link: https://codepen.io/collection/YygqGd
 * HTML
 * CSS/Sass
 * JavaScript
-* Responsive Design
 * Git/GitHub
+* Wamp
+* IDE (e.g., Visual Studio)
 * Frontend Frameworks (e.g., React)
 * Backend Basics (e.g., Node.js, Express.js)
 * Dtabases (e.g., MySql, MongoDB)
