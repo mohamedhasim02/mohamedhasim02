@@ -21,6 +21,14 @@ This README serves as a guide to understanding who I am, what I'm working on, an
 
 Here are some projects I've been working on:
 
+### Guvi Web Develolment Internship Project
+
+Description : Login and Signup using local DataBase. Profile page that can be updated. Updated changes are also updated on both the DataBase and JSON.
+
+Technologies Used: HTML, SASS/SCSS, JavaScript, BootStrap, AJAX and MySql.
+
+
+
 ### FreeCodeCamp's FrontEnd Library Development Project
 
 Description: Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
