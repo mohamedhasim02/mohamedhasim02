@@ -21,7 +21,7 @@ This README serves as a guide to understanding who I am, what I'm working on, an
 
 Here are some projects I've been working on:
 
-### Guvi Web Development Internship Project
+#### Guvi Web Development Internship Project
 
 Description : Login and Signup using local DataBase. Profile page that can be updated. Updated changes are also updated on both the DataBase and JSON.
 
@@ -29,7 +29,7 @@ Technologies Used: HTML, SASS/SCSS, JavaScript, BootStrap, AJAX and MySql.
 
 
 
-### FreeCodeCamp's FrontEnd Library Development Project
+#### FreeCodeCamp's FrontEnd Library Development Project
 
 Description: Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
 In the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass.
@@ -39,7 +39,7 @@ Technologies Used: HTML, CSS, JavaScript, Bootstrap, React, Redux.
 Link: https://codepen.io/collection/vBPGEb
 
 
-### FreeCodeCamp's Responsive Web Design Project
+#### FreeCodeCamp's Responsive Web Design Project
 
 Description: These projects are made for the freeCodeCamp Responsive Web Design Certification. The objective was to use HTML and plain CSS in order to build five responsive webpages that fulfill freeCodeCamp's user stories.
 
