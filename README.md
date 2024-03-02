@@ -55,7 +55,7 @@ Link: https://codepen.io/collection/YygqGd
 * JavaScript
 * Git/GitHub
 * Wamp
-* IDE (e.g., Visual Studio)
+* IDE (e.g., Visual Studio, CodePen)
 * Frontend Frameworks (e.g., React)
 * Backend Basics (e.g., Node.js, Express.js)
 * Dtabases (e.g., MySql, MongoDB)
