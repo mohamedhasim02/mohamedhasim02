@@ -41,6 +41,7 @@ Technologies Used: HTML, CSS, JavaScript, Bootstrap, React, Redux.
 Link: https://codepen.io/collection/vBPGEb
 
 
+
 #### FreeCodeCamp's Responsive Web Design Project
 
 Description: These projects are made for the freeCodeCamp Responsive Web Design Certification. The objective was to use HTML and plain CSS in order to build five responsive webpages that fulfill freeCodeCamp's user stories.
