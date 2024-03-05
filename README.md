@@ -63,7 +63,8 @@ Link: https://codepen.io/collection/YygqGd
 * IDE (e.g., Visual Studio, CodePen)
 * Frontend Frameworks (e.g., React)
 * Backend Basics (e.g., Node.js, Express.js)
-* Dtabases (e.g., MySql, MongoDB)
+* Databases (e.g., MySql, MongoDB)
+* Canva
 
 
 ## How to Reach Me
