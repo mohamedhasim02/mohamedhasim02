@@ -16,12 +16,23 @@ This README serves as a guide to understanding who I am, what I'm working on, an
 
 🎨 I have a keen eye for design and enjoy crafting visually appealing interfaces.
 
-Check Out My Portfolio Here :                https://mohamedhasim.framer.website/
+Check Out My Portfolio Here : https://mohamedhasim.framer.website/
 
 
 ## Projects
 
 Here are some projects I've been working on:
+
+### Go India Stocks Internship Project
+
+Description : The project was developed using Next.js and employed Tailwind CSS for styling.
+It features a responsive design, including a sidebar with a toggle that displays activity that opens the sidebar.
+
+Technologies Used : JavaScript, Nextjs, Json
+
+Link : https://project-one-lac.vercel.app/
+
+
 
 #### Guvi Web Development Internship Project
 
