@@ -8,7 +8,7 @@ This README serves as a guide to understanding who I am, what I'm working on, an
 
 ## About Me
 
-💻 I'm currently honing my skills in HTML, CSS, JavaScript, and various web development frameworks.
+💻 I'm currently honing my skills in HTML, CSS, JavaScript, and web development frameworks.
 
 📚 Learning is my constant companion; I'm always exploring new technologies and methodologies to improve my craft.
 
