@@ -67,7 +67,7 @@ Link: https://codepen.io/collection/YygqGd
 ## Skills
 
 * HTML
-* CSS/Sass
+* CSS
 * JavaScript
 * Git/GitHub
 * Wamp
