@@ -16,7 +16,6 @@ This README serves as a guide to understanding who I am, what I'm working on, an
 
 🎨 I have a keen eye for design and enjoy crafting visually appealing interfaces.
 
-Check Out My Portfolio Here : https://mohamedhasim.framer.website/
 
 
 ## Projects
@@ -84,7 +83,7 @@ Link: https://codepen.io/collection/YygqGd
 
 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-hasim-n-a6ab8024b 
 
-🌐 Portfolio: https://mohamedhasim02.github.io/Portfolio-Website/
+🌐 Portfolio: https://mohamedhasim.framer.website/
 
 
 
