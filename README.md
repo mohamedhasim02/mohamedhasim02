@@ -54,7 +54,7 @@ Link: https://codepen.io/collection/YygqGd
 * Frontend Frameworks (e.g., React)
 * Backend Basics (e.g., Node.js, Express.js)
 * Databases (e.g., MySql, MongoDB)
-* Canva
+* UI / UX (e.g., Canva, Framer)
 
 
 ## How to Reach Me
