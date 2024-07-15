@@ -39,12 +39,12 @@ Technologies Used: Framer
 * CSS
 * JavaScript
 * Git/GitHub
-* Wamp
 * IDE (e.g., Visual Studio, CodePen)
 * Frontend Frameworks (e.g., React)
 * Backend Basics (e.g., Node.js, Express.js)
 * Databases (e.g., MySql, MongoDB)
 * UI / UX (e.g., Canva, Framer)
+* Deployment
 
 
 ## How to Reach Me
