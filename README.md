@@ -1,4 +1,4 @@
-# Hello, I'm MOHAMED HASIM 👋👨‍💻
+# Hello, I'm MOHAMED HASIM 👋
 
 
 ![code](https://github.com/user-attachments/assets/bd127455-10bb-4929-ba66-52cb79285a40)
