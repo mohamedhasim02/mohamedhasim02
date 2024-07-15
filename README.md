@@ -23,24 +23,14 @@ This README serves as a guide to understanding who I am, what I'm working on, an
 Here are some projects I've been working on:
 
 
-#### FreeCodeCamp's FrontEnd Library Development Project
+#### Personal Portfolio Webpage
 
-Description: Now that you're familiar with HTML, CSS, and JavaScript, level up your skills by learning some of the most popular front end libraries in the industry.
-In the Front End Development Libraries Certification, you'll learn how to style your site quickly with Bootstrap. You'll also learn how to add logic to your CSS styles and extend them with Sass.
+Description: Created my Personal Portfolio Web Page to Describe about me and my skills.
+Framer is a no-code website builder that effortlessly turns your designs into live websites. Whether you're starting from scratch, using templates.
 
-Technologies Used: HTML, CSS, JavaScript, Bootstrap, React, Redux.
-
-Link: https://codepen.io/collection/vBPGEb
+Technologies Used: Framer
 
 
-
-#### FreeCodeCamp's Responsive Web Design Project
-
-Description: These projects are made for the freeCodeCamp Responsive Web Design Certification. The objective was to use HTML and plain CSS in order to build five responsive webpages that fulfill freeCodeCamp's user stories.
-
-Technologies Used: HTML, CSS, JavaScript.
-
-Link: https://codepen.io/collection/YygqGd
 
 
 ## Skills
