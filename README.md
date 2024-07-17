@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Web Developer Intern at Zidio Development and Full Stack Web Developer intern at Eduskills**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and web development frameworks.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, and web development frameworks**
 
 - 👯 I’m looking to collaborate on **Like minded Developers**
 
