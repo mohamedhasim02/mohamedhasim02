@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hasim</h1>
-![code](https://github.com/user-attachments/assets/49883558-c11c-4ff1-ba1b-62e6456a7e22)
+![code](https://github.com/user-attachments/assets/573e661a-bc4e-4870-aff8-08bdabb4c100)
+
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. 
   This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
 
