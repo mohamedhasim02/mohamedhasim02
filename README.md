@@ -19,7 +19,7 @@
 
 - 👨‍💻 Checkout Here [https://mohamedhasim.framer.website/](https://mohamedhasim.framer.website/)
 
-- 💬 Ask me about **Web Designing, Front End Development**
+- 💬 Ask me about **Web Designing, Front End Development, Technology Trends**
 
 - 📫 How to reach me **mohamedhasim2002@gmail.com**
 
