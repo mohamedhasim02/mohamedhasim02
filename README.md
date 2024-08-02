@@ -67,5 +67,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mohamedhasim02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-<p align="center"> ### 🙏 Thanks for visiting my Github profile!
+### 🙏 Thanks for visiting my Github profile!
 ---
