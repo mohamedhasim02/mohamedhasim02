@@ -32,6 +32,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 #### Languages
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/c-000?style=for-the-badge)
 
