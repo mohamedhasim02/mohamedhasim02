@@ -59,13 +59,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 # 🔥 GitHub Streaks:
-![](https://github-readme-streak-stats.herokuapp.com/?user=shamim-basha&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhasim02&theme=dark&hide_border=true)
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=shamim-basha&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohamedhasim02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=shamim-basha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mohhamedhasim02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 ### 🙏 Thanks for visiting my Github profile!
