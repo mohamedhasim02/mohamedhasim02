@@ -34,10 +34,9 @@
 <h3 align="left">Languages and Tools:</h3>
 
 #### Languages
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B) ![C](https://img.shields.io/badge/c-000?style=for-the-badge)
-
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
 #### Frontend
-![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3) ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react) ![Expo](https://img.shields.io/badge/expo-000?style=for-the-badge&logo=expo) ![Jinja](https://img.shields.io/badge/jinja-000?style=for-the-badge&logo=jinja) ![Green Sock](https://img.shields.io/badge/green%20sock-000?style=for-the-badge&logo=greensock)
+![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3) ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react) 
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express) ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask)
@@ -46,10 +45,10 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase) ![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite) ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase)  ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql)
 
 #### AI/ML Libraries
-![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow) ![Keras](https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=Keras) ![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=PyTorch) ![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikit-learn) ![Scipy](https://img.shields.io/badge/SciPy-000?style=for-the-badge&logo=scipy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=Matplotlib)
+![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow) 
 
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
