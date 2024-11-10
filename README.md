@@ -2,10 +2,9 @@
 
 ![code](https://github.com/user-attachments/assets/9ae3cd6e-a1a6-4e8e-badb-1c410e1bf8e2)
 
-<h3 align="center">Welcome to my GitHub profile! I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. 
-  This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhasim02&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasim02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhasim02&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasim02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhasim02" alt="mohamedhasim02" /></a> </p>
 
@@ -23,43 +22,20 @@
 
 - 📫 How to reach me **mohamedhasim2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tqnFUJCkGIwMHCTNHN7LBthXxjCL9K_i/view?usp=drive_link](https://drive.google.com/file/d/1tqnFUJCkGIwMHCTNHN7LBthXxjCL9K_i/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YymsKNzvEPTN1Qze5aE-0A_dqbhiiYzf/view?usp=drivesdk](https://drive.google.com/file/d/1YymsKNzvEPTN1Qze5aE-0A_dqbhiiYzf/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/mohamed-hasim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mohamed-hasim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hasim-n-a6ab8024b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hasim-n-a6ab8024b" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/mohamedhasim02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mohamedhasim02/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-#### Languages
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
-#### Frontend
-![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3) ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react) 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhasim02&show_icons=true&locale=en&layout=compact" alt="mohamedhasim02" /></p>
 
-#### Backend
-![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express) ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django) !
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhasim02&show_icons=true&locale=en" alt="mohamedhasim02" /></p>
 
-#### CSS Framework/Libraries
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql)
-
-#### Version Control
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
-# 🔥 GitHub Streaks:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamedhasim02&theme=dark&hide_border=true)
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=mohamedhasim02&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=mohamedhasim02&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-### 🙏 Thanks for visiting my Github profile!
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhasim02&" alt="mohamedhasim02" /></p>
