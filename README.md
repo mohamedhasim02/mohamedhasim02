@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhasim02" alt="mohamedhasim02" /></a> </p>
 
-- 🔭 I’m currently working on **Web Developer Intern at Zidio Development and Full Stack Web Developer intern at Eduskills**
+- 🔭 I’m currently working on **Full Stack Java Developer intern at Eduskills**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, and web development frameworks**
+- 🌱 I’m currently learning **Full Stack Java**
 
 - 👯 I’m looking to collaborate on **Like minded Developers**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 Checkout Here [https://mohamedhasim.framer.website/](https://mohamedhasim.framer.website/)
 
-- 💬 Ask me about **Web Designing, Front End Development, Technology Trends**
+- 💬 Ask me about **Full Stack Development, Software Development, Technology Trends**
 
 - 📫 How to reach me **mohamedhasim2002@gmail.com**
 
@@ -39,19 +39,13 @@
 ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3) ![Angular](https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular) ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) ![React Native](https://img.shields.io/badge/react_native-000?style=for-the-badge&logo=react) 
 
 #### Backend
-![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express) ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django) ![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask)
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js) ![Express.js](https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express) ![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django) !
 
 #### CSS Framework/Libraries
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 #### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=Firebase)  ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql)
-
-#### AI/ML Libraries
-![NumPy](https://img.shields.io/badge/numpy-000?style=for-the-badge&logo=numpy) ![Pandas](https://img.shields.io/badge/pandas-000?style=for-the-badge&logo=pandas) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=TensorFlow) 
-
-#### Package Manager
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
