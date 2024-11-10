@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Developer intern at Eduskills**
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently learning **Full Stack Java Development**
 
 - 👯 I’m looking to collaborate on **Like minded Developers**
 
