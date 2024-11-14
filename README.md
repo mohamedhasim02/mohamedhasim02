@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to my GitHub profile! I'm an aspiring web developer passionate about creating engaging and user-friendly web experiences. This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhasim02&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasim02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhasim02&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasim02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhasim02" alt="mohamedhasim02" /></a> </p>
 
