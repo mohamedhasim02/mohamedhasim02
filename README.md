@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full Stack Java Developer intern at Eduskills**
 
-- 🌱 I’m currently learning **Full Stack Java Development**
+- 🌱 I’m currently learning **Full Stack Development and Data Analytics**
 
 - 👯 I’m looking to collaborate on **Like minded Developers**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 Checkout Here [https://mohamedhasim.framer.website/](https://mohamedhasim.framer.website/)
 
-- 💬 Ask me about **Full Stack Development, Software Development, Technology Trends**
+- 💬 Ask me about **Full Stack Development, Software Development, Data Analytics, Technology Trends**
 
 - 📫 How to reach me **mohamedhasim2002@gmail.com**
 
