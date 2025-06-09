@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhasim02" alt="mohamedhasim02" /></a> </p>
 
-- 🔭 I’m currently seeking opportunities in **Full Stack Developer intern and Data Analyst**
+- 🔭 I’m currently seeking opportunities in **Data Analyst and Software Developer**
 
 - 🌱 I’m currently learning **Full Stack Development and Data Analytics**
 
