@@ -2,7 +2,7 @@
 
 ![code](https://github.com/user-attachments/assets/9ae3cd6e-a1a6-4e8e-badb-1c410e1bf8e2)
 
-<h3 align="center">Welcome to my GitHub profile! I'm an aspiring developer and data analyst passionate about creating engaging and user-friendly web experiences. This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm an aspiring software developer and data analyst passionate about creating engaging and user-friendly web experiences. This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhasim02&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasim02" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently seeking opportunities in **Data Analyst and Software Developer**
 
-- 🌱 I’m currently learning **Full Stack Development and Data Analytics**
+- 🌱 I’m currently learning **Software Development and Data Analytics**
 
 - 👯 I’m looking to collaborate on **Like minded Developers**
 
