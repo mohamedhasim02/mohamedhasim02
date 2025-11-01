@@ -1,16 +1,27 @@
-<h1 align="center">Hi 👋, I'm Mohamed Hasim</h1>
+<h3 align="center">
 
-![code](https://github.com/user-attachments/assets/9ae3cd6e-a1a6-4e8e-badb-1c410e1bf8e2)
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+  
+  Welcome to Mohamed Hasim's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/mohamedhasim02"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+Welcome+to+my+Github+Profile;Mohamed+Hasim;A+Data+Analyst+&+;A+Software+Developer;"></a>
+</p>
 
-<h3 align="center">Welcome to my GitHub profile! I'm an aspiring software developer and data analyst passionate about creating engaging and user-friendly web experiences. This README serves as a guide to understanding who I am, what I'm working on, and how you can collaborate with me.</h3>
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohamedhasim02&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhasim02" /> </p>
+## <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu052000&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhasim02" alt="mohamedhasim02" /></a> </p>
+<br/>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I’m currently seeking opportunities in **Data Analyst and Software Developer**
 
-- 🌱 I’m currently learning **Software Development and Data Analytics**
+- 🌱 I’m currently learning **Data Analytics and Software Development**
 
 - 👯 I’m looking to collaborate on **Like minded Developers**
 
@@ -22,7 +33,7 @@
 
 - 📫 How to reach me **mohamedhasim2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YymsKNzvEPTN1Qze5aE-0A_dqbhiiYzf/view?usp=drivesdk](https://drive.google.com/file/d/1E_mcMxVqQ5bqPzR4l50hJex6mbiL3sJj/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1mzFgZDhuvB5NM41N5KKkHjV7UeTbXWkx/view?usp=drive_link](https://drive.google.com/file/d/1mzFgZDhuvB5NM41N5KKkHjV7UeTbXWkx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
